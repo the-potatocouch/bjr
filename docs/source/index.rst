@@ -26,14 +26,8 @@ Inspired by Jukeboxer (creator of Link's Road to Mastery)
 .. image:: koopalings.jpg
    :width: 500
 
+
 .. note::
    Art by `TheSmashToons <https://twitter.com/TheSmashToons/>`_
 
-
-Contents
---------
-.. toctree::
-   :maxdepth: 2
-   Glossary
-   Fundamentals
 
