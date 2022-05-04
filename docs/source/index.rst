@@ -1,5 +1,15 @@
-Welcome to the Ultimate Bowser JR Guide!
-===================================
+Welcome to the Ultimate Bowser Jr. / Koopaling Guide!
+=====================================================
+
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+   Glossary
+   Fundamentals
+
 
 This guide was originally made by `Fumble <https://twitter.com/FunbleJr/>`_ and adapted into a proper Sphinx documentation by `PotatoCouch <https://twitter.com/the_potatocouch/>`_
 
@@ -12,7 +22,7 @@ If you are new to Competitive Smash in general, we highly suggest you start with
 Inspired by Jukeboxer (creator of Link's Road to Mastery)  
 
 
-.. image:: media/koopalings.jpg
+.. image:: media/kkoopalings.jpg
 .. note::
    Art by `TheSmashToons <https://twitter.com/TheSmashToons/>`_
 
