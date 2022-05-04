@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Welcome to the Ultimate Bowser JR Guide!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This guide was originally made by `Fumble <https://twitter.com/FunbleJr>` and adapted into a proper Sphinx documentation by `PotatoCouch <https://twitter.com/the_potatocouch>`
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The goal for the document is to be an accessible resource for Bowser Jr players looking to improve.
+Here you will find instructions for fundamental Smash skills, Jr's bread and butter combos, set ups and advanced techniques. It is not neccessary to learn every single last piece of tech in this sheet, but the more effort you put in the more Jr will reward you.
+If you are new to Competitive Smash in general, we highly suggest you start with the Fundamentals sheet. 
+Inspired by Jukeboxer (creator of Link's Road to Mastery)
 
-.. note::
-
-   This project is under active development.
+.. image:: media/koopalings.jpg
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Glossary
+   Fundamentals
+
