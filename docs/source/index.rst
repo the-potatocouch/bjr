@@ -7,7 +7,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
+
    Glossary
    Fundamentals
 
@@ -23,7 +23,7 @@ If you are new to Competitive Smash in general, we highly suggest you start with
 Inspired by Jukeboxer (creator of Link's Road to Mastery)  
 
 
-.. image:: media/koopalings.jpg
+.. image:: koopalings.jpg
    :width: 500
 
 .. note::
