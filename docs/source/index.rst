@@ -16,6 +16,7 @@ Inspired by Jukeboxer (creator of Link's Road to Mastery)
 .. note::
    Art by `TheSmashToons <https://twitter.com/TheSmashToons/>`_
 
+
 Contents
 --------
 .. toctree::
