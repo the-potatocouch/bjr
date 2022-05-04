@@ -23,6 +23,8 @@ Inspired by Jukeboxer (creator of Link's Road to Mastery)
 
 
 .. image:: media/koopalings.jpg
+   :width: 500
+
 .. note::
    Art by `TheSmashToons <https://twitter.com/TheSmashToons/>`_
 
