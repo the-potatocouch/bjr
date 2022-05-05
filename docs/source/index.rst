@@ -2,8 +2,9 @@ Welcome to the Ultimate Bowser Jr. / Koopaling Guide!
 =====================================================
 
 
-Contents:
+Contents
 --------
+
 
 .. toctree::
    :maxdepth: 2
