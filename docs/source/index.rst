@@ -23,7 +23,7 @@ If you are new to Competitive Smash in general, we highly suggest you start with
 Inspired by Jukeboxer (creator of Link's Road to Mastery)  
 
 
-.. image:: koopalings.jpg
+.. image:: images/koopalings.jpg
    :width: 500
 
 
