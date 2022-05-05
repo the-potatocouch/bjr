@@ -1,0 +1,6 @@
+table.docutils {
+    display: block;
+    height: auto;
+    overflow-y: scroll;
+    width: 80%;
+}
