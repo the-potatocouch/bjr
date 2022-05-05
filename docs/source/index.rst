@@ -8,8 +8,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   Glossary
-   Fundamentals
+   glossary
+   fundamentals
 
 
 This guide was originally made by `Fumble <https://twitter.com/FunbleJr/>`_ and adapted into a proper Sphinx documentation by `PotatoCouch <https://twitter.com/the_potatocouch/>`_
