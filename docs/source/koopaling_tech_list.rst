@@ -1,7 +1,7 @@
 Koopaling tech list
 ===================
 
-.. csv-table:: **koopatech**
+.. csv-table:: **Koopaling tech list**
    :file: table3.csv
-   :widths: 40, 60, 60, 60, 60
+   :widths: 1, 3, 3, 2
    :header-rows: 1

@@ -12,7 +12,8 @@ Contents
    glossary
    fundamentals
 
-
+.. note::
+   You can contribute to the project on the `public GitHub repository <https://github.com/the-potatocouch/bjr/>`_
 This guide was originally made by `Fumble <https://twitter.com/FunbleJr/>`_ and adapted into a proper Sphinx documentation by `PotatoCouch <https://twitter.com/the_potatocouch/>`_
 
 The goal for the document is to be an accessible resource for Bowser Jr players looking to improve.  
