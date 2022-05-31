@@ -1,0 +1,76 @@
+Technique,How to,Importance / additional info
+Walking,Slowly move the directional stick left and right.,All actions can be immediately performed out of walking. It is an essential tool that allows you to both move and react to your opponent without restricting your options.
+Dashing,Quickly push the directional stick to the far left or right.,"Allows for faster movement at the expense of being able to instantly shield. Before shield can be activated out of a dash, a brief animation must play."
+Foxtrotting,Repeatedly input a dash.,Using your initial dash to reposition can improve your spacing. Some characters move faster by foxtrotting than dashing due to their initial dash speed being higher than their dash speed.
+Pivoting,Dash in one direction then turn around.,"Allows for a wider variety of grounded and aerial options. Pivots can be cancelled with attacks, best with the tilt stick."
+Reverse Aerial Rush (RAR),"Dash and pivot, then jump during the pivot animation.","Allows you to more easily chase your opponent with bair, perform retreating aerials or turn around which is relevant for Jr's up air."
+,,
+**Grounded Attack Options**,,
+Jab,"Press A without inputting a direction while grounded. Repeat or hold to extend to jab 2 and rapid jab, release to finish.","Jr's jab is frame 4, does good damage and kills."
+Tilts,"Input a direction and then press A, alternatively, it is recommended to play with tilt stick (C stick bound to tilt attacks). If this is enabled, input a direction while stationary on the C stick.","Jr's up tilt can combo into up air strings which can rack up big damage. Down tilt is another frame 4 option and it can 2 frame, as well as sending your opponent at a good angle off stage. Ftilt is good for poking from a safe distance and can set up for tech situations."
+Running tilts,"While dashing, return the directional stick to neutral and then input a tilt command.",Opens up more opportunities for using your tilts.
+Sliding tilts,"Dash forward, perform a pivot and then input a tilt command. Using tilt stick makes this easier.","Not that useful for Jr, but allows you to improve your spacing for tilt attacks. Typically up and down tilt will get the most use out of this."
+Dash attack,"While dashing, press A or any direction on the C stick.","Jr's dash attack can deal ~17% and be a surprise disjointed option that catches your opponent off guard. It is not generally useful as it is very punishable and does not combo, but using it well will help deter your opponent from taking advantage of Jr's weaknesses while grounded."
+Instant dash attack,Initiate a dash and press forward on the C stick simultaneously.,Opens up more opportunities to use dash attack.
+Smash attacks,Input a direction and A simultaneously.,"Jr's fsmash is generally safe on shield when spaced and can kill early at ledge. Dsmash does significant shield damage and is powerful, but is highly punishable - generally only use it for reads. Dsmash can also 2frame, but this isn't recommended due to the unreliability of 2frames and how punishable this is as an option. Up smash comes out frame 7 and can kill your opponent off the top around 120-140% on most stages."
+Running smash attacks,"While dashing, return the directional stick to neutral and then input a smash command.",Opens up more opportunities to use smash attacks.
+Grab,Press the grab button.,Jr's grab is frame 11.
+Dash grab,Press the grab button while dashing.,Jr's dash grab is frame 15 and can help catch your opponent who is positioning well.
+Pivot grab,Press the grab buttong while pivoting.,Jr's pivot grab is frame 16 and quite small - not recommended but can catch your opponent offguard.
+Throws,"After grabbing someone, input a direction to throw them.","Jr's up throw is an essential bread and butter tool as it combos into up air strings, which deal large amounts of damage. Down throw is Jr's most damaging throw and sends at an excellent angle for edge guarding, it also sets up for tech scenarios if your opponent does not DI up. Fthrow and bthrow are typically not as useful but can kill at around 150%, earlier when combo'd with a latched MK."
+Pummel,"After grabbing someone, press A to pummel them.",Allows you to get more damage out of a grab.
+,,
+**Short Hopping**,,
+Short Hop,"Quickly tap the jump button. The input must last for 3 frames or less, else you will full hop. Alternatively, press two jump buttons simultaneously.",An essential movement technique. Shorthopping allows you to threaten aerial options while staying closer to the ground.
+Short Hop Fast Fall,"Perform a short hop, then press down on the directional stick after reaching the peak of the jump.","Allows you to return to a grounded state faster after short hopping - essential to make some aerials less punishable, as well as threaten mixups such as a tomahawk grab."
+Rising Short Hop Aerial,Press the jump button and input an attack at the same time.,Good for putting a hitbox where your opponent is or will be. Jr's fair lingers which can help catch your opponent.
+Falling Short Hop Aerial,Perform a shot hop and input an attack after reaching the peak of the jump.,Generally safer than rising SH aerials. Also an essential part of Jr's combo game.
+"Add horizontal movement, RAR and fast falling",Be sure to practice retreating aerials and timing mixups to make them safer.,"Having a solid understanding of movement and attacking is critical. Be sure to practice different timings for aerials as this can make them safer, more punishing or just as a mixup."
+,,
+**Full Hopping**,,
+Full Hop,"Press the jump button. The input must last for 3 frames or more, else you will short hop.","An essential movement technique. Fullhopping creates more space which allows for more approach options, timing mix ups and baits. Knowing when to use which type of jump is a core movement skill in Ultimate."
+Full Hop Fast Fall,"Perform a full hop, then press down on the directional stick after reaching the peak of the jump.","Allows you to return to a grounded state faster after full hopping - essential to make some aerials less punishable, as well as threaten mix ups such as a tomahawk grab."
+Rising Full Hop Aerial,"Perform a full hop, then input an attack after leaving the ground.","Rising full hop aerials are a common part of Jr's combo game, especially with up throw up air combos."
+Falling Full Hop Aerial,Perform a full hop and input an attack after reaching the peak of the jump.,Another variation of aerial timing that is essential to Jr's combo game and aerial offense.
+"Add horizontal movement, RAR and fast falling",Be sure to practice retreating aerials and timing mixups to make them safer.,"Having a solid understanding of movement and attacking is critical. Be sure to practice different timings for aerials as this can make them safer, more punishing or just as a mixup."
+,,
+B-Reversing,,The directional input must be held by the 4th frame after pushing B to ensure you reverse it.
+Grounded reverse neutral B,"Press B, then push the directional stick in the opposite direction to where your character is facing.","Can catch opponents off guard. As Cannonball is an unwieldy projectile to fire, having more options to prepare it will help you use it more often."
+Grounded reverse down B,Press down and B and perform a quarter circle on the directional stick in a fluid motion towards the opposite direction to where your character is facing.,Good for putting MK behind you without telegraphing it by turning.
+Aerial reverse neutral B,"While in the air, press B, then push the directional stick in the opposite direction to where your character is facing.","Note how your momentum shifts, as well as the recoil from the projectile. This can help Jr's recovery options while providing an active hitbox."
+Aerial reverse down B,"While in the air, press down and B and perform a quarter circle on the directional stick in a fluid motion towards the opposite direction to where your character is facing.","Note how your momentum shifts. This can catch your opponent off guard especially in chase scenarios, where MK can often latch and explode before hitting the ground."
+,,
+**Clown Kart Dash**,,
+Controlling kart speed,"While karting, holding forward on the directional stick will allow you to accelerate. Practice holding forward and returning the stick to neutral to see the speed difference.","Typically you will want to kart at maximum speed by holding forward, but as a timing mixup or for widening the window of some confirms, slow karting may be a viable option."
+Spinout,"While karting, pressing A, B, or backwards on the directional stick.","This is one of Jr's strongest attacks while grounded and still powerful while in the air. It has a large hitbox which can be used to cancel out or trade with your opponent's attacks, including some projectiles. Additionally, it allows Jr to stall while in the air which is important for recovery mixups. Offstage, you maintain your side b after spinout so can be a useful way of mixing up recovery."
+Kart jump,"While karting, input a jump.","This is an essential part of Jr's combo game, recovery, general safety and mix up potential. Once you kart jump, you will have to land on the stage or grab ledge to regain access to kart dash and kart jumping."
+,,
+**Abandon Ship!**,,
+Hammer swing,Press A or B after ejecting from the kart.,This is one of Jr's strongest moves and can be a strong punish when reading your opponent or as a combo finisher.
+Air dodge,Press shield after ejecting from the kart. You can only do this once per ejection.,Knowing how Jr's out of kart air dodge works will allow you to recover safer and open up new aggressive options i.e. air dodge past their attempt to 2 frame and then hit them with a hammer swing to send them off stage.
+Kart recovery,Press A to recover the kart after knockback if you have been knocked into tumble after ejecting.,It is critical for all Jr players to understand when they're able to recover the kart. It will allow you to live longer and have more confidence in your options while out of kart.
+,,
+**Item Play**,,
+Picking up an item,"Stand near the item and press A. Inputting dash or tilt attacks will also pick up the item. If the item is nearby while in the air, you can catch it with an aerial attack or air dodge.","Being able to pick up or catch items, especially ones your opponent has thrown, gives access to a range of options and can give you the upper hand in some matchups. This includes MK."
+Z-drop,"While holding an item in the air, press Grab (default Z) without inputting a direction to drop the item frame 1.","Allows you to drop an item frame 1, providing a fast hitbox and allows you to use aerials with an item in your hand."
+Z-catch,"Perform a Z-drop, then input an aerial attack or air dodge to catch the item again.",Allows you to perform aerials without throwing your item.
+Soft item throw,"While holding an item, press a direction then press A, or use the C stick.",Gives greater control in the distance of your thrown item.
+Hard item throw,While holding an item do a smash input in a direction. A+B smash will work if you have it selected in your controls.,Gives greater control in the distance of your thrown item.
+,,
+**Actions Out of Shield**,,
+Spot dodge,Press down while holding shield.,Allows you to avoid attacks while remaining stationary.
+Spot dodge cancel,Perform a spot dodge then input an attack before the spot dodge has finished.,Allows you to punish your opponent with an attack after avoiding theirs.
+Roll,Press left or right while holding shield.,Allows you to avoid attacks while moving.
+Jump,Press jump while holding shield. Can short hop and full hop out of shield.,"Allows you to perform aerial options out of shield. Note that jump squat is 3 frames, so your aerials will be slightly delayed."
+Grab,Press grab while holding shield.,Allows you to grab out of shield. Note that when grabbing out of shield after your shield has been hit your grab will be delayed by 4 frames.
+Shield drop,Release the shield button.,"It takes 11 frames to drop your shield, the first 5 frames of shield drop will trigger a parry if an active hitbox is close enough to your character."
+Up smash,Input an up smash while shielding.,Jr's up smash is frame 7 and can kill your opponent. Good for punishing unsafe attacks on your shield.
+Up b,Input up b while shielding.,"This isn't recommended for Jr, but it can be used as a hard call out if your opponent commits to options too early or is otherwise predictable."
+Item toss,Press a direction on the C stick while shielding.,Grants fast ranged options out of shield. This increases the strength of holding a MK.
+,,
+**Actions On Ledge**,,
+Neutral get up,Press forward while on ledge.,Most I frames but you go no distance.
+Roll,Input shield while on ledge.,Easier to react and punish but could avoid opponents standing at the ledge.
+Jump,Input jump while on ledge.,Most vulnerable option but we get to act quickly.
+Ledge drop,Press down or backwards while on ledge.,Has the most mixup potential with fair/dair/tomahawk/side b but exhausts double jump early.
+Get up attack,Input attack while on ledge.,"Jr can be attacked while doing this getup attack, even being spiked offstage."
